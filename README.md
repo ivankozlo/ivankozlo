@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ruby on Rails
 - 🌱 I’m currently learning Elixir/Phoenix
 - 💞️ I’m looking to collaborate on something challenging and cool
-- 📫 How to reach me ivan.olegovich.kozlov@gmail.com
+- 📫 How to reach me me@ivankozlo.com
 
 <!---
 ivankozlo/ivankozlo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
